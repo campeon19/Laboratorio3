@@ -26,20 +26,24 @@ class MainActivity : AppCompatActivity() {
         val infoVirus = findViewById<Button>(R.id.virusButton)
         infoVirus.setOnClickListener{
             var num = Intent(this,Activity2::class.java)
-            intent.putExtra("eleccion", 0)
+            num.putExtra("eleccion", 0)
             startActivity(num)
+            finish()
         }
         val infoSintomas = findViewById<Button>(R.id.sintomasButton)
         sintomasButton.setOnClickListener{
             var num = Intent(this,Activity2::class.java)
-            intent.putExtra("eleccion", 1)
+            num.putExtra("eleccion", 1)
             startActivity(num)
+            finish()
         }
         val infoIndicaciones = findViewById<Button>(R.id.indicacionesButton)
         infoIndicaciones.setOnClickListener{
             var num = Intent(this,Activity2::class.java)
-            intent.putExtra("eleccion", 2)
+            num.putExtra("eleccion", 2)
             startActivity(num)
+            finish()
+
         }
 
     }

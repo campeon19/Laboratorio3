@@ -78,13 +78,14 @@
             android:layout_marginLeft="16dp"
             android:layout_marginEnd="16dp"
             android:layout_marginRight="16dp"
+            android:layout_marginBottom="24dp"
             android:ems="10"
             android:hint="@string/Comentario_edit"
             android:inputType="textPersonName"
             android:text="Name"
+            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/comentarBotton"
-            tools:layout_editor_absoluteY="631dp" />
+            app:layout_constraintStart_toEndOf="@+id/comentarBotton" />
 
         <Button
             android:id="@+id/comentarBotton"
