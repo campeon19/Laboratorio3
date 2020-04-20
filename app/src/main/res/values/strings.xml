@@ -8,4 +8,34 @@
     <string name="Edad_Text">Edad</string>
     <string name="Edad_edit">20</string>
     <string name="Riesgo_Text">Nivel de riesgo si se contrae Coronavirus</string>
+    <string name="Comentar_botton">Comentar</string>
+    <string name="Comentario_edit">Comentario</string>
+    <string name="Virus">Los coronavirus (CoV) son una amplia familia de virus que pueden causar diversas
+    afecciones, desde el resfriado común hasta enfermedades más graves, como ocurre con el coronavirus causante del síndrome respiratorio de Oriente Medio
+    (MERS-CoV) y el que ocasiona el síndrome respiratorio agudo severo (SRAS-CoV). Un nuevo coronavirus es una nueva cepa de coronavirus que no se había encontrado antes en el ser humano.
+    n/n/Los coronavirus se pueden contagiar de los animales a las personas (transmisión zoonótica). De acuerdo con estudios exhaustivos al respecto, sabemos que el SRAS-CoV se transmitió de la civeta al ser humano y que se ha producido
+    transmisión del MERS-CoV del dromedario al ser humano. Además, se sabe que hay otros coronavirus circulando entre animales, que todavía no han infectado al ser humano.
+    n\n\Esas infecciones suelen cursar con fiebre y síntomas respiratorios (tos y disnea o dificultad para respirar). En los casos más graves, pueden causar neumonía, síndrome respiratorio agudo severo, insuficiencia renal e, incluso, la muerte.
+    </string>
+
+    <string name="Sintomas">Los síntomas más comunes de la COVID-19 son fiebre, cansancio y tos seca. Algunos pacientes pueden presentar dolores, congestión nasal, rinorrea, dolor de garganta o
+    diarrea. Estos síntomas suelen ser leves y aparecen de forma gradual. Algunas personas se infectan pero no desarrollan ningún síntoma y no se encuentran mal. La
+        mayoría de las personas (alrededor del 80%) se recupera de la enfermedad sin necesidad de realizar ningún tratamiento especial. Alrededor de 1 de cada 6 personas que contraen la COVID-19 desarrolla una enfermedad grave y tiene dificultad para
+        respirar. Las personas mayores y las que padecen afecciones médicas subyacentes, como hipertensión arterial, problemas cardiacos o diabetes, tienen más probabilidades de desarrollar una enfermedad grave.
+        En torno al 2% de las personas que han contraído la enfermedad han muerto. Las personas que tengan fiebre, tos y dificultad para respirar deben buscar atención médica.
+    </string>
+
+    <string name="Indicaciones">1. Lávese las manos con frecuencia con un desinfectante de manos a base de alcohol o con agua y jabón.
+    \n2.Al toser o estornudar, cúbrase la boca y la nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.
+    n\3.Mantenga al menos 1 metro (3 pies) de distancia entre usted y las demás personas, particularmente aquellas que tosan, estornuden y tengan fiebre.
+    n\4.Evite tocarse los ojos, la nariz y la boca
+    n\5.Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo
+    n\6.Manténgase informado y siga las recomendaciones de los profesionales sanitarios</string>
+
+    <string name="Virus_Titulo">Informacion sobre el Coronavirus</string>
+    <string name="Sintomas_Titulo">Sintomas</string>
+    <string name="Indicaciones_Titulo">Indicaciones</string>
+    <string name="Virus_Subtitulo">Que es el Covid-19?</string>
+    <string name="Sintomas_Subtitulo">Estos son los sintomas que causa el Coronavirus</string>
+    <string name="Indicaciones_Subtitulo">Siga estas recomendaciones para prevenir el Coronavirus</string>
 </resources>
