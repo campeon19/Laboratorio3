@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coronavirus</string>
+    <string name="Virus_Bottom">Virus</string>
+    <string name="Sintomas_Bottom">Sintomas</string>
+    <string name="Indicaciones_Bottom">Indicaciones</string>
+    <string name="Nombre_Text">Nombre</string>
+    <string name="Nombre_edit">Christian Perez</string>
+    <string name="Edad_Text">Edad</string>
+    <string name="Edad_edit">20</string>
+    <string name="Riesgo_Text">Nivel de riesgo si se contrae Coronavirus</string>
+</resources>
