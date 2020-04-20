@@ -57,15 +57,15 @@ class MainActivity : AppCompatActivity() {
 
             if (edad <= 15){
                 val TextView1 = findViewById<TextView>(R.id.informacion).apply {
-                    text = "$nombre, Por tu rango de edad estas en bajo riesgo si contraes el virus"
+                    text = "$nombre, por tu rango de edad estas en bajo riesgo si contraes el virus"
                 }
             } else if (edad >= 50){
                 val TextView1 = findViewById<TextView>(R.id.informacion).apply {
-                    text = "$nombre, Por tu rango de edad estas en un muy alto riesgo si contraes el virus"
+                    text = "$nombre, por tu rango de edad estas en un muy alto riesgo si contraes el virus"
                 }
             }  else {
                 val TextView1 = findViewById<TextView>(R.id.informacion).apply {
-                    text = "$nombre, Por tu rango de edad estas en alto riesgo si contraes el virus"
+                    text = "$nombre, por tu rango de edad estas en alto riesgo si contraes el virus"
                 }
             }
 
